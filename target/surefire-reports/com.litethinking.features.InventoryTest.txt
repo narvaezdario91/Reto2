@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.litethinking.features.InventoryTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 26.18 s -- in com.litethinking.features.InventoryTest
